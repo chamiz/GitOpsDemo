@@ -76,4 +76,3 @@ gradle-app.setting
 .gradletasknamecache
 
 src/main/resources/application-secrets.properties
-
